@@ -29,7 +29,7 @@
     "rxjs": "^6.6.0"
   },
   "devDependencies": {
-    "@nestjs/cli": "^7.0.0",
+    "@nestjs/cli": "^9.1.5",
     "@nestjs/schematics": "^7.0.0",
     "@nestjs/testing": "^7.0.0",
     "@types/dotenv": "^8.2.0",
